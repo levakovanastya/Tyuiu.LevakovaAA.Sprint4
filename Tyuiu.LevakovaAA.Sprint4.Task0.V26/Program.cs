@@ -12,7 +12,7 @@ namespace Tyuiu.LevakovaAA.Sprint4.Task0.V26
             DataService ds = new DataService();
 
             Console.Title = "Спринт #4 | Выполнила: Левакова А.А. | СМАРТб-25-1";
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Одномерные массивы (статический ввод)                                   *");
             Console.WriteLine("* Задание 0                                                               *");

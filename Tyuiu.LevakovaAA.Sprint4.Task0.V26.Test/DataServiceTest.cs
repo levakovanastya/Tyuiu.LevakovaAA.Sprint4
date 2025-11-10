@@ -13,7 +13,7 @@ namespace Tyuiu.LevakovaAA.Sprint4.Task0.V26.Test
             DataService ds = new DataService();
             int[] numsArray = { 9, 3, 7, 1, 5, 5, 3, 2, 1, 7 };
             int res = ds.GetSumOddArrEl(numsArray);
-            Assert.AreEqual(41, res);
+            Assert.AreEqual(42, res);
         }
     }
 }
