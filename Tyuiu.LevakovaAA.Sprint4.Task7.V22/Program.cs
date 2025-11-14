@@ -26,7 +26,7 @@ namespace Tyuiu.LevakovaAA.Sprint4.Task7.V22
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Дана строка из одноразрядных цифр 695324951753684. Преобразуйте ее в    *");
-            Console.WriteLine("* матрицу 5 на 3 и подсчитайте произведение четных чисел.                 *");
+            Console.WriteLine("* матрицу 5 на 3 и подсчитайте произведение четных чисел                 *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
