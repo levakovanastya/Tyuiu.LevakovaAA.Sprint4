@@ -9,8 +9,8 @@ namespace Tyuiu.LevakovaAA.Sprint4.Task7.V22
     {
         static void Main(string[] args)
         {
-            int rows = 3;
-            int columns = 5;
+            int rows = 5;
+            int columns = 3;
             int[,] mtrx = new int[rows, columns];
             string str = "695324951753684";
             DataService ds = new DataService();
